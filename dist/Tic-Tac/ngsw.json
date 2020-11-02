@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1604317081556,
+  "index": "https://username.github.io/Pers-App-Tic_Tac/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://username.github.io/Pers-App-Tic_Tac/favicon.ico",
+        "https://username.github.io/Pers-App-Tic_Tac/index.html",
+        "https://username.github.io/Pers-App-Tic_Tac/main.e25dc935afb34a5948db.js",
+        "https://username.github.io/Pers-App-Tic_Tac/manifest.webmanifest",
+        "https://username.github.io/Pers-App-Tic_Tac/polyfills.35a5ca1855eb057f016a.js",
+        "https://username.github.io/Pers-App-Tic_Tac/runtime.acf0dec4155e77772545.js",
+        "https://username.github.io/Pers-App-Tic_Tac/styles.8d794453282549e02c70.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-128x128.png",
+        "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-144x144.png",
+        "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-152x152.png",
+        "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-192x192.png",
+        "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-384x384.png",
+        "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-512x512.png",
+        "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-72x72.png",
+        "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://username.github.io/Pers-App-Tic_Tac/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://username.github.io/Pers-App-Tic_Tac/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://username.github.io/Pers-App-Tic_Tac/index.html": "81cb250bf8ec4158ffaac38c0bb9ede72b4e5df5",
+    "https://username.github.io/Pers-App-Tic_Tac/main.e25dc935afb34a5948db.js": "13b230a2de4799e3b7a9001e66ce265829f9063e",
+    "https://username.github.io/Pers-App-Tic_Tac/manifest.webmanifest": "463766fe9e6cdbde032e5f4fe31fbb0782253b9c",
+    "https://username.github.io/Pers-App-Tic_Tac/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "https://username.github.io/Pers-App-Tic_Tac/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://username.github.io/Pers-App-Tic_Tac/styles.8d794453282549e02c70.css": "a5bad365465bd2caf922ff1e3d6d27d37875496f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
